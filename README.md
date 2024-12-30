@@ -1,8 +1,9 @@
-# 💻 Bem-vindo(a) ao meu GitHub!  
+# 👋 Olá! Eu sou Matheus Moraes  
 
-Olá! Me chamo Matheus Moraes, tenho 22 anos e sou apaixonado por tecnologia, programação e a cultura japonesa. 🎌  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e dedicando meu tempo a projetos que envolvem **Java Web com Spring**, minha grande paixão no mundo da programação.  
+🎌 **Apaixonado por tecnologia, programação e cultura japonesa.**  
+💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e explorando o mundo do desenvolvimento web Full Stack.  
 
+---
 <p align="left">TECHS</p>
 
 ###
@@ -10,19 +11,21 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e dedicand
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
@@ -34,27 +37,50 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e dedicand
 
 ###
 
+
+
 ## 🚀 Sobre mim  
-- 💻 Meu amor por **Java** começou quando me aprofundei no universo incrível do **Minecraft**, o que despertou minha curiosidade em entender como tudo funciona por trás dos bastidores.  
-- 📚 Hoje, sou um entusiasta de desenvolvimento **back-end** e estou explorando a criação de aplicações robustas e escaláveis.  
-- 💬 Fique à vontade para trocar ideias sobre **Java**, **Spring**, **cultura japonesa** ou até mesmo seu anime favorito!  
+💡 Minha jornada começou com curiosidade sobre como grandes sistemas funcionam, e hoje meu foco está em dominar o desenvolvimento back-end com **Node.js** enquanto expando meus conhecimentos para o front-end.  
 
-## 🛠️ Tecnologias que uso e estudo  
-- **Linguagens:** Java ☕, JavaScript.  
-- **Frameworks e bibliotecas:** Spring Boot, JPA, Hibernate.  
-- **Ferramentas:** Git, IntelliJ IDEA.  
+📚 Estou mergulhando no desenvolvimento de aplicações escaláveis e robustas, conectando tecnologias modernas e eficientes.  
 
-## 📈 Objetivos  
-Meu objetivo é me tornar um desenvolvedor **back-end especialista em Java**, com foco em **Spring** e **arquitetura de microsserviços**, e contribuir para projetos que fazem a diferença.   
-
-## 🎮 Curiosidades  
-- 🎥 Amo assistir **animes** (se quiser dicas ou trocar ideias, manda mensagem!)  
-- 🎮 Sempre que posso eu jogo para relaxar.  
-- 🌟 Busco unir hobbies, aprendizado e trabalho para construir um futuro onde eu possa me divertir e crescer.  
+💬 Adoro trocar ideias sobre programação, desenvolvimento web, ou até mesmo sobre o seu anime favorito!  
 
 ---
 
-📬 **Vamos nos conectar?**  
-- 📧 Email: matheus66moraes@gmail.com 
+🛠️ Tecnologias que uso e estudo  
+ 🌐 Front-End  
+- **Linguagens**: HTML, CSS, JavaScript  
+- **Frameworks/Bibliotecas**: React, Bootstrap  
 
-Obrigado por visitar meu GitHub! Que tal dar uma olhada nos meus repositórios e trocar ideias? 😊  
+### 🔧 Back-End  
+- **Linguagens**: JavaScript  
+- **Frameworks/Bibliotecas**: Node.js, Express.js    
+
+### 🛠️ Ferramentas e Práticas  
+- **Controle de versão**: Git  
+- **IDEs**: Visual Studio Code  
+- **Banco de Dados**: MySQL, MongoDB   
+
+---
+
+## 📈 Objetivos  
+🎯 Tornar-me um desenvolvedor Full Stack especializado em:  
+- **Node.js** no back-end.  
+- **React** no front-end.  .  
+
+🤝 Contribuir para projetos que fazem a diferença, trazendo soluções escaláveis e inovadoras.  
+
+---
+
+## 🎮 Curiosidades  
+🎥 Amo assistir animes e sempre estou aberto a trocar dicas (me manda seu favorito!)  
+🎮 Jogos são meu refúgio para relaxar.  
+🌟 Acredito em unir hobbies, aprendizado e trabalho para construir um futuro onde diversão e crescimento andem juntos.  
+
+---
+
+## 📬 Vamos nos conectar?  
+📧 **Email**: matheus66moraes@gmail.com
+
+
