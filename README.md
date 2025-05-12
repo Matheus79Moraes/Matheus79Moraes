@@ -1,8 +1,6 @@
 # 👋 Olá! Eu sou Matheus Moraes  
 
-🎌 **Apaixonado por tecnologia, programação e cultura japonesa.**  
-💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e explorando o mundo do desenvolvimento web Full Stack.  
-
+Sou desenvolvedor focado em back-end com Node.js, JavaScript e TypeScript, e trabalhar com banco de dados, autenticação, estruturação de projetos e tudo que envolve lógica e eficiência no servidor.
 ---
 <p align="left">TECHS</p>
 
@@ -15,17 +13,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
@@ -40,47 +32,34 @@
 
 
 ## 🚀 Sobre mim  
-💡 Minha jornada começou com curiosidade sobre como grandes sistemas funcionam, e hoje meu foco está em dominar o desenvolvimento back-end com **Node.js** enquanto expando meus conhecimentos para o front-end.  
+💡 Minha jornada começou com curiosidade sobre como grandes sistemas funcionam, e hoje meu foco está em dominar o desenvolvimento back-end com **Node.js**
 
 📚 Estou mergulhando no desenvolvimento de aplicações escaláveis e robustas, conectando tecnologias modernas e eficientes.  
 
-💬 Adoro trocar ideias sobre programação, desenvolvimento web, ou até mesmo sobre o seu anime favorito!  
+💬 Adoro trocar ideias sobre programação e desenvolvimento web, 
 
 ---
 
-🛠️ Tecnologias que uso e estudo  
- 🌐 Front-End  
-- **Linguagens**: HTML, CSS, JavaScript  
-- **Frameworks/Bibliotecas**: React, Bootstrap  
-
-### 🔧 Back-End  
-- **Linguagens**: JavaScript  
-- **Frameworks/Bibliotecas**: Node.js, Express.js    
-
-### 🛠️ Ferramentas e Práticas  
-- **Controle de versão**: Git  
-- **IDEs**: Visual Studio Code  
-- **Banco de Dados**: MySQL, MongoDB   
-
+🛠️ Tecnologias e ferramentas
+- Node.js
+- JavaScript / TypeScript
+- Express
+- MongoDB / PostgreSQL
+- Git e GitHub
+- REST APIs
 ---
 
-## 📈 Objetivos  
-🎯 Tornar-me um desenvolvedor Full Stack especializado em:  
+📈 Objetivos  
+🎯 Tornar-me um desenvolvedor Back-End especializado em:  
 - **Node.js** no back-end.  
-- **React** no front-end.  .  
+
 
 🤝 Contribuir para projetos que fazem a diferença, trazendo soluções escaláveis e inovadoras.  
 
----
 
-## 🎮 Curiosidades  
-🎥 Amo assistir animes e sempre estou aberto a trocar dicas (me manda seu favorito!)  
-🎮 Jogos são meu refúgio para relaxar.  
-🌟 Acredito em unir hobbies, aprendizado e trabalho para construir um futuro onde diversão e crescimento andem juntos.  
 
----
 
-## 📬 Vamos nos conectar?  
+📬 Vamos nos conectar?  
 📧 **Email**: matheus66moraes@gmail.com
 
 
