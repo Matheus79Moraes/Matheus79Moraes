@@ -1,7 +1,12 @@
-# 👋 Olá! Eu sou Matheus Moraes  
+👋 Olá! Eu sou Matheus Moraes  
 
-Sou desenvolvedor focado em back-end com Node.js, JavaScript e TypeScript, e trabalhar com banco de dados, autenticação, estruturação de projetos e tudo que envolve lógica e eficiência no servidor.
----
+📱 Desenvolvedor Mobile | React Native
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento mobile utilizando **React Native**. Tenho interesse em criar aplicações eficientes e bem estruturadas, com atenção à lógica, organização de código e integração com APIs e bancos de dados.
+<p align="left">TECHS</p>
+
+###
+
 <p align="left">TECHS</p>
 
 ###
@@ -17,7 +22,9 @@ Sou desenvolvedor focado em back-end com Node.js, JavaScript e TypeScript, e tra
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
@@ -27,39 +34,28 @@ Sou desenvolvedor focado em back-end com Node.js, JavaScript e TypeScript, e tra
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus79Moraes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
+🛠️ Tecnologias e Ferramentas
 
+- **React Native** (Expo)
+- **JavaScript** / **TypeScript**
+- **Node.js** 
+- **Git** e **GitHub**
+- **Figma** 
+- **REST APIs**
+---
 
-## 🚀 Sobre mim  
-💡 Minha jornada começou com curiosidade sobre como grandes sistemas funcionam, e hoje meu foco está em dominar o desenvolvimento back-end com **Node.js**
+🎯 Objetivo Profissional
 
-📚 Estou mergulhando no desenvolvimento de aplicações escaláveis e robustas, conectando tecnologias modernas e eficientes.  
-
-💬 Adoro trocar ideias sobre programação e desenvolvimento web, 
+Atuar como **estagiário em desenvolvimento mobile**, contribuindo em projetos reais enquanto evoluo tecnicamente. Meu foco está em desenvolver aplicações móveis com **boas práticas**, atenção à performance, organização e manutenibilidade do código.
 
 ---
 
-🛠️ Tecnologias e ferramentas
-- Node.js
-- JavaScript / TypeScript
-- Express
-- MongoDB / PostgreSQL
-- Git e GitHub
-- REST APIs
----
+📫 Contato
 
-📈 Objetivos  
-🎯 Tornar-me um desenvolvedor Back-End especializado em:  
-- **Node.js** no back-end.  
-
-
-🤝 Contribuir para projetos que fazem a diferença, trazendo soluções escaláveis e inovadoras.  
-
-
-
-
-📬 Vamos nos conectar?  
-📧 **Email**: matheus66moraes@gmail.com
+- 📧 Email: **matheus66moraes@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-moraes-165337288/)
+- 💻 [GitHub](https://github.com/Matheus79Moraes)
 
 
