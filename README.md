@@ -3,12 +3,6 @@
 📱 Desenvolvedor Mobile | React Native
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento mobile utilizando **React Native**. Tenho interesse em criar aplicações eficientes e bem estruturadas, com atenção à lógica, organização de código e integração com APIs e bancos de dados.
-<p align="left">TECHS</p>
-
-###
-
-<p align="left">TECHS</p>
-
 ###
 
 <div align="left">
