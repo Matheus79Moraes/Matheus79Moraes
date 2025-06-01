@@ -1,6 +1,6 @@
 Desenvolvedor Full Stack | Foco em Back-end com Node.js
 
-Atuo com desenvolvimento web full stack, com ênfase no back-end utilizando Node.js. Tenho interesse em criar aplicações eficientes e bem estruturadas, dando atenção à lógica, organização do código 
+Atuo com desenvolvimento web full stack, com foco no back-end utilizando Node.js. Tenho interesse em criar aplicações eficientes e bem estruturadas, dando atenção à lógica, organização do código 
 <p align="left">TECHS</p>
 
 ###
