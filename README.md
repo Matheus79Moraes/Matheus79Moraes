@@ -1,8 +1,8 @@
-👋 Olá! Eu sou Matheus Moraes  
+Desenvolvedor Full Stack | Foco em Back-end com Node.js
 
-📱 Desenvolvedor Mobile | React Native
+Atuo com desenvolvimento web full stack, com ênfase no back-end utilizando Node.js. Tenho interesse em criar aplicações eficientes e bem estruturadas, dando atenção à lógica, organização do código 
+<p align="left">TECHS</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento mobile utilizando **React Native**. Tenho interesse em criar aplicações eficientes e bem estruturadas, com atenção à lógica, organização de código e integração com APIs e bancos de dados.
 ###
 
 <div align="left">
@@ -16,9 +16,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvime
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
@@ -28,28 +28,26 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvime
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus79Moraes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-🛠️ Tecnologias e Ferramentas
-
-- **React Native** (Expo)
-- **JavaScript** / **TypeScript**
-- **Node.js** 
-- **Git** e **GitHub**
-- **Figma** 
-- **REST APIs**
 ---
+Node.js (Express)
+
+JavaScript / TypeScript
+
+React (básico para front-end)
+
+Git e GitHub
 
 🎯 Objetivo Profissional
 
-Atuar como **estagiário em desenvolvimento mobile**, contribuindo em projetos reais enquanto evoluo tecnicamente. Meu foco está em desenvolver aplicações móveis com **boas práticas**, atenção à performance, organização e manutenibilidade do código.
-
+Atuar como estagiário em desenvolvimento full stack, contribuindo em projetos reais enquanto aprimoro minhas habilidades técnicas. Busco desenvolver aplicações escaláveis e com boas práticas, focando em performance, organização de código.
 ---
 
 📫 Contato
 
 - 📧 Email: **matheus66moraes@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-moraes-165337288/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheusmoraes66/)
 - 💻 [GitHub](https://github.com/Matheus79Moraes)
 
 
