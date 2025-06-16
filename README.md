@@ -26,7 +26,7 @@ Atuo com desenvolvimento de aplicações utilizando Java, com foco em criar solu
 TECHS
 🛠️ Tecnologias e Ferramentas:
 
-Java (SE/EE)
+Java 
 
 Spring / Spring Boot
 
