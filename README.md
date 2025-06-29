@@ -21,7 +21,6 @@ Contribuir em projetos reais de desenvolvimento, aplicando meus conhecimentos em
 
 📧 Email: matheus66moraes@gmail.com
 
-💼 LinkedIn: linkedin.com/in/matheusmoraes66
+💼 LinkedIn: https://www.linkedin.com/in/matheusmoraes66/
 
-💻 GitHub: github.com/Matheus79Moraes
-
+💻 GitHub: https://github.com/Matheus79Moraes
