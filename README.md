@@ -19,12 +19,12 @@ func getProfile() (Contact, Life, Coding) {
 
     coding := Coding{
         Langs: map[string][]string{
-            "core":          {"java", "javascript"},
+            "core":          {"C#", "javascript", "Java"},
             "hasExperience": {"html", "css"},
         },
         Specialties: []string{"web", "apis", "automations"},
-        Ide:         []string{"vscode", "intellij"},
-        Frameworks:  []string{"spring"},
+        Ide:         []string{"vscode", "intellij", "Visual Studio"},
+        Frameworks:  []string{"spring", ".Net"},
     }
 
     return contact, life, coding
@@ -33,6 +33,8 @@ func getProfile() (Contact, Life, Coding) {
 ````
 
 <p align="left">TECHS</p>
+
+#<p align="left">TECHS</p>
 
 ###
 
@@ -52,9 +54,26 @@ func getProfile() (Contact, Life, Coding) {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
-####
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus79Moraes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus79Moraes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus79Moraes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
