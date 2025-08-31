@@ -8,5 +8,4 @@
 
 💬 Adoro compartilhar conhecimento e trocar ideias sobre desenvolvimento. Fique à vontade para conferir meus projetos ou me chamar para uma conversa sobre tecnologia!
 
-Conecte-se comigo
 🔗 LinkedIn: https://www.linkedin.com/in/matheusmoraes66
