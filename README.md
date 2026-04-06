@@ -1,11 +1,14 @@
 👋 Olá!
 
-🔭 Eu sou Matheus Moraes, estudante de Análise e Desenvolvimento de Sistemas (ADS)
+Sou Matheus Moraes, com foco em desenvolvimento de software e criação de soluções voltadas à automação de processos e integração de sistemas.
 
-🌱 Estou sempre explorando novas tecnologias e aprimorando minhas habilidades em programação e desenvolvimento web.
+Desenvolvedor Full Stack com Java, utilizando Spring Boot para construção de APIs e aplicações robustas, além de HTML, CSS e JavaScript para criação de interfaces modernas e funcionais.
 
-💻 Atualmente, meu foco é full stack, trabalhando principalmente com JavaScript, TypeScript, NodeJs e HTML/CSS, construindo aplicações modernas e funcionais.
+Conhecimento na aplicação de regras de negócio, análise de dados e organização de processos, utilizando a tecnologia como ferramenta para aumentar a eficiência, reduzir erros operacionais e otimizar rotinas.
 
-💬 Adoro compartilhar conhecimento e trocar ideias sobre desenvolvimento. Fique à vontade para conferir meus projetos ou me chamar para uma conversa sobre tecnologia!
+Interesse em desenvolver soluções que gerem valor real, especialmente em cenários que envolvem processos estruturados e alta confiabilidade.
+
+Fique à vontade para conhecer meus projetos ou entrar em contato para trocar ideias sobre tecnologia.
+
 
 🔗 LinkedIn: https://www.linkedin.com/in/matheusmoraes66
