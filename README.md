@@ -1,11 +1,19 @@
 👋 Olá!
 
-Sou Matheus Moraes, desenvolvedor de software com foco no ecossistema C#/.NET, atuando no desenvolvimento de APIs, sistemas corporativos, automação de processos e integração entre aplicações.
+Desenvolvedor de software com foco no ecossistema Java, atuando no desenvolvimento de aplicações backend, APIs REST e sistemas corporativos.
 
-Desenvolvo soluções utilizando C#, .NET e ASP.NET Core, aplicando boas práticas de arquitetura, princípios SOLID, Clean Code e padrões de projeto para criar aplicações escaláveis, seguras e de fácil manutenção.
+Possuo experiência na construção de soluções utilizando Java, Spring Boot, Spring Data JPA e bancos de dados relacionais, aplicando boas práticas de desenvolvimento para criar aplicações escaláveis, seguras e de fácil manutenção.
 
-Tenho experiência na implementação de regras de negócio, modelagem de dados, integração com bancos de dados relacionais e desenvolvimento de APIs REST, sempre buscando eficiência, desempenho e confiabilidade nas soluções.
+Tenho como base princípios de engenharia de software, incluindo SOLID, Clean Code e padrões de projeto, com foco na organização do código, qualidade, testabilidade e evolução contínua das aplicações.
 
-Meu objetivo é desenvolver software que gere valor real para empresas e usuários, utilizando a tecnologia para otimizar processos, reduzir custos operacionais e entregar soluções robustas e de alta qualidade.
+Busco desenvolver soluções robustas, priorizando desempenho, confiabilidade e manutenibilidade, sempre seguindo boas práticas de arquitetura e desenvolvimento de software.
+
+Tecnologias
+Java
+Spring Boot
+Spring Data JPA
+PostgreSQL
+Maven
+Gi
 
 🔗 LinkedIn: https://www.linkedin.com/in/matheusmoraes66
